@@ -1,0 +1,7 @@
+# Text files using LF:
+*.xml text eol=lf
+*.rpttemplate text eol=lf
+*.gitattributes text eol=lf
+
+# Binary files:
+*.jpg binary

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+    <ROW>
+        <CUSTOMER>Customer1</CUSTOMER>
+        <ACCOUNT>Account1</ACCOUNT>
+        <AMOUNT>100</AMOUNT>
+    </ROW>
+    <ROW>
+        <CUSTOMER>Customer1</CUSTOMER>
+        <ACCOUNT>Account2</ACCOUNT>
+        <AMOUNT>150</AMOUNT>
+    </ROW>
+    <ROW>
+        <CUSTOMER>Customer2</CUSTOMER>
+        <ACCOUNT>Account3</ACCOUNT>
+        <AMOUNT>200</AMOUNT>
+    </ROW>
+    <ROW>
+        <CUSTOMER>Customer2</CUSTOMER>
+        <ACCOUNT>Account4</ACCOUNT>
+        <AMOUNT>75</AMOUNT>
+    </ROW>
+    <ROW>
+        <CUSTOMER>Customer2</CUSTOMER>
+        <ACCOUNT>Account5</ACCOUNT>
+        <AMOUNT>120</AMOUNT>
+    </ROW>
+</DATA>
